@@ -1,4 +1,4 @@
-
+//todo version information should be available in jar
 plugins {
     id 'java'
 }
